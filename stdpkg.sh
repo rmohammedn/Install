@@ -19,4 +19,5 @@ sudo apt-get install cmake
 # install git
 sudo apt-get install git
 
-
+# install tree
+sudo apt-get install tree
