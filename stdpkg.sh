@@ -21,3 +21,9 @@ sudo apt-get install git
 
 # install tree
 sudo apt-get install tree
+
+# install cppcheck
+sudo apt-get install cppcheck
+
+# install clang
+sudo apt-get install clang
