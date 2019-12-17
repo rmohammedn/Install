@@ -3,7 +3,7 @@
 sudo pip3 install -r requirement.txt
 
 ## for python2
-# sudo pip install -r requirement.txt
+sudo pip install -r requirement.txt
 
 ### individual installation
 
